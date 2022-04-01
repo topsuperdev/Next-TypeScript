@@ -1,0 +1,19 @@
+# Ignore artifacts:
+node_modules
+public
+.github
+src/styles/custom-tailwind.min.css
+.dockerignore
+.eslintrc.json
+.gitignore
+.nvmrc
+.prettierrc.json
+Dockerfile
+next-env.d.ts
+next.config.js
+package-lock.json
+package.json
+postcss.config.js
+README.md
+tsconfig.json
+yarn.lock
